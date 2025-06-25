@@ -40,24 +40,26 @@ A simple and responsive Expense Tracker web application built using **HTML**, **
 ```
 
 
-⚙️ How to Run Locally
+### ⚙️ How to Run Locally
 Clone the repository:
 
-bash
+```bash
 Copy
 Edit
 git clone https://github.com/yourusername/expense-tracker.git
 
 cd expense-tracker
+```
 
 
 Open index.html in your browser:
 
-bash
+```bash
 Copy
 Edit
 open index.html
-✨ Contributing
+```
+### ✨ Contributing
 Contributions are welcome! Here's how:
 
 Fork the repo
@@ -72,8 +74,8 @@ Push to the branch (git push origin feature-name)
 
 Open a pull request
 
-📃 License
+### 📃 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
+### 🙌 Acknowledgements
 Built with ❤️ using pure frontend technologies.

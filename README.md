@@ -47,7 +47,10 @@ bash
 Copy
 Edit
 git clone https://github.com/yourusername/expense-tracker.git
+
 cd expense-tracker
+
+
 Open index.html in your browser:
 
 bash

@@ -37,6 +37,9 @@ A simple and responsive Expense Tracker web application built using **HTML**, **
 ├── index.html
 ├── style.css
 └── script.js
+```
+
+
 ⚙️ How to Run Locally
 Clone the repository:
 
